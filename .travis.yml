@@ -8,7 +8,7 @@ cache:
 install:
   - npm install
 script:
-  - picidae build -f --source-map
+  - picidae build
 deploy:
   provider: pages
   skip_cleanup: true
