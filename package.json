@@ -12,6 +12,7 @@
   "dependencies": {
     "picidae": "^2.1.6",
     "picidae-commander-gh-pages": "^1.0.1",
-    "picidae-theme-crystal": "^1.0.2"
+    "picidae-theme-crystal": "^1.0.2",
+    "picidae-tools": "0.0.3"
   }
 }
