@@ -1,7 +1,7 @@
 ---
 title: js中创建对象的几种方式
 date: 2017-02-05 17:01:39
-tags: -JavaScript
+tags: JavaScript
 categories: JavaScript
 thumbnail: http://p1.bpimg.com/567571/8005d114e2ce3f4c.jpg
 ---

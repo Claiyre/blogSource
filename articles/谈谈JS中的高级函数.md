@@ -1,7 +1,7 @@
 ---
 title: 谈谈JS中的高级函数
 date: 2017-08-14 17:59:55
-tags: -JavaScript
+tags: JavaScript
 categories: 学习总结
 ---
 

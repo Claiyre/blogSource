@@ -1,7 +1,7 @@
 ---
 title: 浅析js闭包
 date: 2016-11-26 20:19:55
-tags: -JavaScript
+tags: JavaScript
 comment: true
 thumbnail: http://p1.bpimg.com/567571/e848c63099dc87a0.png
 categories: JavaScript

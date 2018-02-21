@@ -1,7 +1,7 @@
 ---
 title: Node学习笔记---初识Node
 date: 2017-01-19 12:07:17
-tags: -Node 
+tags: Node 
 categories: Node
 thumbnail: http://p1.bpimg.com/567571/684df24aedeb5244.jpg
 ---

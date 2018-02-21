@@ -1,7 +1,7 @@
 ---
 title: 细谈sass和less中的变量及其作用域
 date: 2017-02-23 12:55:30
-tags: -less -sass
+tags: [less, sass]
 categories: CSS
 thumbnail: http://i1.piimg.com/567571/c2bdc6fce744ee3a.png
 ---

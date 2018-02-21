@@ -1,7 +1,7 @@
 ---
 title: JavaScript函数学习总结(一)---函数定义
 date: 2016-12-03 12:02:39
-tags: -JavaScript
+tags: JavaScript
 categories: 学习总结
 thumbnail: http://p1.bpimg.com/567571/59034b879f3464aa.png
 ---

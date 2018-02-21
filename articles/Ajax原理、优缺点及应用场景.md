@@ -1,7 +1,7 @@
 ---
 title: Ajax原理、优缺点及应用场景
 date: 2017-02-25 10:45:15
-tags: -Ajax
+tags: ['Ajax']
 categories: Ajax
 thumbnail: http://i1.piimg.com/567571/9a83dfdba7307652.jpg
 ---

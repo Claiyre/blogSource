@@ -1,6 +1,6 @@
 ---
 title: footer定位引发的一些思考
-tags: ['position', 'height: 100%']
+tags: ['position', '相对高度']
 categories: CSS
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: css居中小结
 date: 2016-12-09 22:04:55
-tags: -css -定位
+tags: ['css', '定位']
 categories: CSS
 thumbnail: http://i1.piimg.com/567571/ba2e23dd64ecb4ac.png
 ---

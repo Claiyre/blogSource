@@ -1,7 +1,7 @@
 ---
 title: 动态样式语言LESS
 date: 2017-02-17 10:56:12
-tags: -css -less
+tags: [css, less]
 categories: CSS
 thumbnail: http://i1.piimg.com/567571/1e0a283aff257474.jpg
 ---

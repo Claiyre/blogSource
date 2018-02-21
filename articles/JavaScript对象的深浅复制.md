@@ -1,7 +1,7 @@
 ---
 title: JavaScript对象的深浅复制
 date: 2017-03-29 21:43:10
-tags: -JavaScript
+tags: JavaScript
 thumbnail: http://i2.muimg.com/567571/d5492541e11770e4.png
 categories: JavaScript
 ---
