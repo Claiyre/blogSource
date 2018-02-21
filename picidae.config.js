@@ -1,5 +1,5 @@
 module.exports = {
-    theme: 'picidae-theme-crystal',
+    theme: './themes/picidae-theme-crystal',
     verbose: true,
     port: 8989,
     publicPath: '/',

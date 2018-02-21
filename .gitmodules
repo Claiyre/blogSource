@@ -1,0 +1,3 @@
+[submodule "themes/picidae-theme-crystal"]
+	path = themes/picidae-theme-crystal
+	url = https://github.com/picidaejs/picidae-theme-crystal.git
