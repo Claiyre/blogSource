@@ -13,6 +13,7 @@
     "picidae": "^2.1.19",
     "picidae-commander-gh-pages": "^1.0.1",
     "picidae-theme-crystal": "^1.0.7",
-    "picidae-tools": "0.0.3"
+    "picidae-tools": "0.0.3",
+    "picidae-transformer-toc": "^1.1.4"
   }
 }

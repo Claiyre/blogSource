@@ -13,7 +13,9 @@ module.exports = {
     themeConfigsRoot: './theme-configs',
     hotReloadTests: [/\.(md|markdown)$/i],
     excludes: [/\.ignore\./],
-    transformers: [],
+    transformers: [
+        'picidae-transformer-toc?maxDepth=8&test=null',
+    ],
     commanders: [
         'gh-pages?repo=git@github.com:Claiyre/Claiyre.github.io.git&branch=master&remote=origin'
     ]
