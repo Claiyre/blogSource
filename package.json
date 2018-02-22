@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "picidae": "^2.1.16",
+    "picidae": "^2.1.19",
     "picidae-commander-gh-pages": "^1.0.1",
     "picidae-theme-crystal": "^1.0.7",
     "picidae-tools": "0.0.3"

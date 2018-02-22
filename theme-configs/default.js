@@ -2,8 +2,16 @@
 module.exports = {
   pageSize: 6 ,
   title: 'Claiyre的个人博客',
-  blogName: false,           // the text in the header of blog pages
-  avatarUrl: 'avatar.png',   // put your avatar image under ~./extra/ 
+  blogName: "Claiyre's Blog",           // the text in the header of blog pages
+  avatarUrl: 'avatar.png',   // put your avatar image under ~./extra/
+  header: {
+    posts: {
+      text: 'posts',
+      show: true
+    },
+    tags: true,
+    about: true
+  },
   gitment: {
     owner: 'Claiyre',
     repo: 'Claiyre.github.io',
