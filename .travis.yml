@@ -22,10 +22,3 @@ deploy:
 env:
  global:
    - GH_REF: claiyre/claiyre.github.io
-# Handle git submodules yourself
-git:
-    submodules: false
-# Use sed to replace the SSH URL with the public URL, then initialize submodules
-before_install:
-    - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
-    - git submodule update --init --recursive
