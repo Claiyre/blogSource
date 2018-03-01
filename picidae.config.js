@@ -13,6 +13,7 @@ module.exports = {
     themeConfigsRoot: './theme-configs',
     hotReloadTests: [/\.(md|markdown)$/i],
     excludes: [/\.ignore\./],
+    host: 'https://claiyre.github.io/',
     transformers: [
         'picidae-transformer-toc?maxDepth=8&test=null',
     ],
