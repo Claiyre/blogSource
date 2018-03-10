@@ -1,6 +1,6 @@
 module.exports = {
     theme: './themes/picidae-theme-crystal',
-    verbose: true,
+    verbose: false,
     port: 8989,
     publicPath: '/',
     expressSetup: null,
